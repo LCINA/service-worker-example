@@ -1,0 +1,11 @@
+#is-support {
+    color: red;
+    background-color: bisque;
+}
+
+img {
+    display: block;
+    max-width: 800px;
+    border: 2px solid #ddd;
+    margin-bottom: 5px;
+}
